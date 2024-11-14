@@ -1,4 +1,4 @@
-<H3> Name : Kathir VS R</H3>
+<H3> Name : Kathir VS</H3>
 <H3>Register No. 212221040075</H3>
 <H3> Experiment 1</H3>
 <H3>DATE:</H3>
